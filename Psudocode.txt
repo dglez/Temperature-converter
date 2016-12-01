@@ -1,0 +1,37 @@
+
+PSUDOCODE
+
+
+Programmer: Daniel Gonzalez #4926400
+Date: 09/01/2016
+
+//Prompt user to input step interval
+
+//Validate Input
+	// get first char from input stream
+	// while next character aren't the end of line 
+		// count characters if they aren't spaces
+	// if first character is out of range and counter is greater than 0  
+		//Prompt user to input step interval
+		// validate input
+	// return first character
+
+//Display table
+	//print table header
+	//print calculated values from -20 to 280 using 
+	//validated input as interval 
+	
+// END with no errors 
+
+
+
+
+
+
+
+
+
+
+
+
+
