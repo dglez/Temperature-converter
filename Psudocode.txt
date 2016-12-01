@@ -2,7 +2,7 @@
 PSUDOCODE
 
 
-Programmer: Daniel Gonzalez #4926400
+Programmer: Daniel Gonzalez
 Date: 09/01/2016
 
 //Prompt user to input step interval
