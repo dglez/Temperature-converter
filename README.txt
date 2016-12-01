@@ -1,7 +1,7 @@
 README TEXT
 
 
-Programmer: Daniel Gonzalez #4926400
+Programmer: Daniel Gonzalez 
 Date: 09/01/2016
 
 1. Copy TConverter.c file to any diractory
