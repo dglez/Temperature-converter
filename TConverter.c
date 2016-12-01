@@ -2,7 +2,7 @@
 #include <stdio.h>
 /***************************************************/
 
-/* Author: Daniel Gonzalez P#4926400 */
+/* Author: Daniel Gonzalez */
 /* Assignment 1: Table temperature (Fahrenheit and Celsius) */
 
 /* program will accept and validate input values 
